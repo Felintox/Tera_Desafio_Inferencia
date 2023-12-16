@@ -1,4 +1,4 @@
-# Tera_DESAFIO_Inferência
+# Tera_Desafio_Inferência
 
 Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DATA SCIENCE & MACHINE LEARNING desta plataforma
 
