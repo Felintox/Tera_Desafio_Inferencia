@@ -13,3 +13,7 @@ Seu desafio é responder as seguintes perguntas:
 Qual o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006?
 
 Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
+
+Os dados são :
+DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006
+PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
