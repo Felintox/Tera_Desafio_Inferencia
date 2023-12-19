@@ -2,6 +2,8 @@
 
 Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DATA SCIENCE & MACHINE LEARNING desta plataforma
 
+_________________________________________________________________________________________________________________________________________________________________________________________
+
 Resumo:
 
 O desafio proposto trata sobre o transtorno depressivo, um problema multifatorial que pode ter várias possíveis combinações de situações como causa.
@@ -14,6 +16,8 @@ Qual o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressiv
 
 Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
 
+
+_________________________________________________________________________________________________________________________________________________________________________________________
 Os dados são :
 DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006
 
