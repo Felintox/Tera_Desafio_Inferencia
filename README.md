@@ -1,8 +1,5 @@
-<h1 align="center">Desafio de Inferência</h1>
+<h1 align="center">Inferência Estatística</h1>
 
-# Resolução do Desafio de Inferência
-
-Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DATA SCIENCE & MACHINE LEARNING desta plataforma
 
 # Resumo:
 
