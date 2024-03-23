@@ -16,13 +16,11 @@ Os dados disponíveis são resultados da NHNES (National Health and Nutrition Ex
 
 Perguntas:
     
-<br>
+- Há associação entre gênero e depressão?
 
-1- Qual o perfil de individuos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no periodo entre 2005-2006
+- As médias de idade são as mesmas para os três grupos de depressão?
 
-<br>
-
-2- Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população? 
+- As médias de renda familiar são as mesmas para os três grupos de depressão?
 
 ## Banco de Dados
 
